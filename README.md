@@ -10,23 +10,18 @@
 
 ---
 
-## LeetCode Stats  
+## Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest&border=0&radius=15" alt="LeetCode Stats" width="60%"/>
-</p>
-
----
-
-## GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevanms003&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanms003&layout=compact&theme=dark" alt="Top Languages" width="49%"/>
+  <img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest&border=0&radius=15&width=300" alt="LeetCode Stats" width="300"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevanms003&show_icons=true&theme=dark&count_private=true&hide_title=true&hide_border=true&width=300" alt="GitHub Stats" width="300"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanms003&layout=compact&theme=dark&hide_title=true&hide_border=true&width=300" alt="Top Languages" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanms003&theme=dark" alt="GitHub Streak" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanms003&theme=dark&hide_border=true&width=500" alt="GitHub Streak" width="500"/>
 </p>
 
 ---
