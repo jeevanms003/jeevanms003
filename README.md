@@ -12,15 +12,17 @@
 
 ## Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest&border=0&radius=15&width=300" alt="LeetCode Stats" width="300"/>
-  &nbsp;&nbsp;&nbsp;
+<!-- Big LeetCode card -->
+<img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest&border=0&radius=15" alt="LeetCode Stats" width="600"/>
+
+<!-- GitHub stats smaller, two per row -->
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=jeevanms003&show_icons=true&theme=dark&count_private=true&hide_title=true&hide_border=true&width=300" alt="GitHub Stats" width="300"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanms003&layout=compact&theme=dark&hide_title=true&hide_border=true&width=300" alt="Top Languages" width="300"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanms003&layout=compact&theme=dark&hide_title=true&hide_border=true&width=300" alt="Top Languages" width="300"/>
-  &nbsp;&nbsp;&nbsp;
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanms003&theme=dark&hide_border=true&width=300" alt="GitHub Streak" width="300"/>
 </p>
 
@@ -28,7 +30,7 @@
 
 ## Contact  
 
-<p align="center">
+<p>
   <a href="mailto:jeevanms003@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40"/>
   </a>
@@ -41,3 +43,4 @@
     <img src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx.png" alt="X" width="40" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
 </p>
+
