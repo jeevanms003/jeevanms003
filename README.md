@@ -10,22 +10,12 @@
 
 ---
 
-## Stats
+## GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="flex: 0 0 calc(50% - 10px); max-width: 200px;">
-    <img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest&border=0&radius=15&width=200" alt="LeetCode Stats" width="200"/>
-  </div>
-  <div style="flex: 0 0 calc(50% - 10px); max-width: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jeevanms003&show_icons=true&theme=dark&count_private=true&hide_title=true&hide_border=true&width=200" alt="GitHub Stats" width="200"/>
-  </div>
-  <div style="flex: 0 0 calc(50% - 10px); max-width: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanms003&layout=compact&theme=dark&hide_title=true&hide_border=true&width=200" alt="Top Languages" width="200"/>
-  </div>
-  <div style="flex: 0 0 calc(50% - 10px); max-width: 200px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanms003&theme=dark&hide_border=true&width=200" alt="GitHub Streak" width="200"/>
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevanms003&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jeevan's GitHub Stats" width="45%" style="margin-right:5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanms003&theme=radical&hide_border=true" alt="Jeevan's GitHub Streak" width="45%"/>
+</p>
 
 ---
 
