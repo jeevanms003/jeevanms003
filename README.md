@@ -1,7 +1,3 @@
-# [Jeevan M Swamy]
-
-Full-Stack Developer with expertise in web and mobile application development, focusing on clean and efficient code. Currently working on projects using React.js, Flutter, and Node.js, while solving algorithmic problems on LeetCode.
-
 ## Technologies & Tools
 
 | Category       | Technologies/Tools                                                                 |
@@ -13,7 +9,7 @@ Full-Stack Developer with expertise in web and mobile application development, f
 
 ## LeetCode
 
-Profile: [leetcode.com/[Your LeetCode Username]](https://leetcode.com/[Your LeetCode Username])
+Profile: [leetcode.com/jeevanms003(https://leetcode.com/jeevanms003)
 
 ## Contact
 
