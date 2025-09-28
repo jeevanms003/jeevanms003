@@ -21,7 +21,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanms003&theme=radical&hide_border=true" alt="Jeevan's GitHub Streak" width="45%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanms003&layout=compact&theme=radical&hide_border=true" alt="Jeevan's GitHub Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanms003&layout=compact&theme=radical&hide_border=true" alt="Jeevan's GitHub Top Languages" width="40%" />
 </p>
 
 
