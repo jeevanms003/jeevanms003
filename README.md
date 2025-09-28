@@ -13,7 +13,7 @@
 ## LeetCode Stats  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest&border=0&radius=20" alt="LeetCode Stats" width="80%"/>
+  <img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest&border=0&radius=15" alt="LeetCode Stats" width="60%"/>
 </p>
 
 ---
@@ -30,6 +30,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/techyjix">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="X" width="40" style="background:white; border-radius:8px;"/>
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx.png" alt="X" width="40" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
 </p>
