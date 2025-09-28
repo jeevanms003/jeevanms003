@@ -13,7 +13,7 @@
 ## LeetCode Stats  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest&width=1000&height=400" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest&border=0&radius=20" alt="LeetCode Stats" width="80%"/>
 </p>
 
 ---
@@ -22,14 +22,14 @@
 
 <p align="center">
   <a href="mailto:jeevanms003@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/jeevan-m-swamy-68135023b">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/techyjix">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" width="40" height="40" style="filter: invert(1)"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="X" width="40" style="background:white; border-radius:8px;"/>
   </a>
 </p>
