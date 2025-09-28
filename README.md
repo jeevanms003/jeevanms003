@@ -10,14 +10,16 @@
 
 ---
 
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Baloo_2&width=600&height=300)
+
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeevanms003&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jeevan's GitHub Stats" width="45%" style="margin-right:5%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanms003&theme=radical&hide_border=true" alt="Jeevan's GitHub Streak" width="45%"/>
 </p>
-
----
 
 ## Contact  
 
@@ -34,3 +36,4 @@
     <img src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx.png" alt="X" width="40" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
 </p>
+
