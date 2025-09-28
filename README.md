@@ -22,14 +22,15 @@
 
 <p align="center">
   <a href="mailto:jeevanms003@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40"/>
+    <img src="your-gmail-logo.png" alt="Gmail" width="40" style="background:white; padding:6px; border-radius:50%;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/jeevan-m-swamy-68135023b">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+    <img src="your-linkedin-logo.png" alt="LinkedIn" width="40" style="background:white; padding:6px; border-radius:50%;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/techyjix">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx.png" alt="X" width="40" style="background:white; padding:5px; border-radius:8px;"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="X" width="40" style="background:white; padding:6px; border-radius:50%;"/>
   </a>
 </p>
+
