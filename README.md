@@ -10,20 +10,18 @@
 
 ---
 
-## Stats
+## Stats (2 per row, same size)
 
-<!-- Big LeetCode card -->
-<img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest&border=0&radius=15" alt="LeetCode Stats" width="600"/>
-
-<!-- GitHub stats smaller, two per row -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevanms003&show_icons=true&theme=dark&count_private=true&hide_title=true&hide_border=true&width=300" alt="GitHub Stats" width="300"/>
+  <img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest&border=0&radius=15&width=400" alt="LeetCode Stats" width="400"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanms003&layout=compact&theme=dark&hide_title=true&hide_border=true&width=300" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevanms003&show_icons=true&theme=dark&count_private=true&hide_title=true&hide_border=true&width=400" alt="GitHub Stats" width="400"/>
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanms003&theme=dark&hide_border=true&width=300" alt="GitHub Streak" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanms003&layout=compact&theme=dark&hide_title=true&hide_border=true&width=400" alt="Top Languages" width="400"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanms003&theme=dark&hide_border=true&width=400" alt="GitHub Streak" width="400"/>
 </p>
 
 ---
@@ -43,4 +41,3 @@
     <img src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx.png" alt="X" width="40" style="background:white; padding:5px; border-radius:8px;"/>
   </a>
 </p>
-
