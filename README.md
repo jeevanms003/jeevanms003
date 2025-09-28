@@ -16,8 +16,10 @@
 
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jeevanms003&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jeevan's GitHub Stats" width="45%" style="margin-right:5%"/>
+</p>
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanms003&theme=radical&hide_border=true" alt="Jeevan's GitHub Streak" width="45%"/>
 </p>
 <p align="center">
