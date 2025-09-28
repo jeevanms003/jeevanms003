@@ -18,6 +18,19 @@
 
 ---
 
+## GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevanms003&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanms003&layout=compact&theme=dark" alt="Top Languages" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanms003&theme=dark" alt="GitHub Streak" width="60%"/>
+</p>
+
+---
+
 ## Contact  
 
 <p align="center">
