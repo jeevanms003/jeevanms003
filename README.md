@@ -13,15 +13,15 @@
 ## Stats (2 per row, same size)
 
 <p>
-  <img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest&border=0&radius=15&width=350" alt="LeetCode Stats" width="350"/>
+  <img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest&border=0&radius=15&width=300" alt="LeetCode Stats" width="300"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevanms003&show_icons=true&theme=dark&count_private=true&hide_title=true&hide_border=true&width=350" alt="GitHub Stats" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevanms003&show_icons=true&theme=dark&count_private=true&hide_title=true&hide_border=true&width=300" alt="GitHub Stats" width="300"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanms003&layout=compact&theme=dark&hide_title=true&hide_border=true&width=350" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanms003&layout=compact&theme=dark&hide_title=true&hide_border=true&width=300" alt="Top Languages" width="300"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanms003&theme=dark&hide_border=true&width=350" alt="GitHub Streak" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanms003&theme=dark&hide_border=true&width=300" alt="GitHub Streak" width="300"/>
 </p>
 
 ---
