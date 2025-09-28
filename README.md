@@ -11,9 +11,12 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest)
 
+Profile: [leetcode.com/jeevanms003](https://leetcode.com/jeevanms003)
 
 ## Contact
 
-- ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) [Your Email]
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white) [linkedin.com/in/[Your LinkedIn Username]](https://linkedin.com/in/[Your LinkedIn Username])
-- ![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white) [x.com/[Your X Username]](https://x.com/[Your X Username])
+| Platform | Contact Info |
+|----------|--------------|
+| ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge) | [jeevanms003@gmail.com](mailto:jeevanms003@gmail.com) |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge) | [linkedin.com/in/jeevan-m-swamy-68135023b](https://linkedin.com/in/jeevan-m-swamy-68135023b) |
+| ![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge) | [x.com/techyjix](https://x.com/techyjix) |
