@@ -12,7 +12,7 @@
 
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Baloo_2&width=600&height=300)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Baloo_2&width=400&height=200)
 
 ## GitHub Stats
 
