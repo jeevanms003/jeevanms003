@@ -11,7 +11,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Roboto&ext=contest)
 
-Profile: [leetcode.com/jeevanms003](https://leetcode.com/jeevanms003)
 
 ## Contact
 
