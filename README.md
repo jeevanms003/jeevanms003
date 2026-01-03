@@ -12,7 +12,7 @@
 
 ### LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&font=Baloo_2" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/jeevanms003?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
 
 <br/>
 
